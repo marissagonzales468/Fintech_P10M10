@@ -1,4 +1,4 @@
-# Crypto Portfolio Application
+## Crypto Portfolio Application
 
 This command line interface is a novel approach to assembling investment portfolios that are based on cryptocurrencies. Instead of basing your proposal on only returns and volatility, this app also includes other factors that might impact the crypto market—leading to better performance for your portfolio. A great feature for beginners! Users can interact with a plot that is full of clusters that is cryptocurrencies by their performance in different time periods. 
 ---
